@@ -41,6 +41,8 @@ Electro waves:
 These characteristics make wireless communication much more difficult.
 
 ## Modulation
+Adding information to a carrier signal.
+Most often a sine wave.
 
 ### Analogue modulation
 
@@ -101,6 +103,8 @@ Allow sender to reserve channel
 ### MIMO
 Exploits the space dimension to improve wireless systems capacity
 - Multiple antennas
+
+*Improve performance or reliability*
 
 
 ##### Beamforming
